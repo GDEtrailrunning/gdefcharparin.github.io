@@ -97,8 +97,8 @@ const chartFontFamily = '"Tajawal", Arial, sans-serif';
   const dataLine1 = {
     labels: ['Día 1', 'Día 2', 'Día 3', 'Día 4'],
     datasets: [{
-      label: 'Km recorridos en Semana 26',
-      data: [12, 10, 7, 16],
+      label: 'Km recorridos en Semana 28',
+      data: [12, 12, 16, 19],
       borderColor: 'rgba(75, 192, 192, 1)',
       backgroundColor: 'rgba(75, 192, 192, 0.2)',
       fill: true,
@@ -109,8 +109,8 @@ const chartFontFamily = '"Tajawal", Arial, sans-serif';
   const dataLine2 = {
     labels: ['Día 1', 'Día 2', 'Día 3', 'Día 4'],
     datasets: [{
-      label: 'Km recorridos en Semana 27',
-      data: [10, 10, 12, 17],
+      label: 'Km recorridos en Semana 29',
+      data: [10, 13, 16, 15],
       borderColor: 'rgba(153, 102, 255, 1)',
       backgroundColor: 'rgba(153, 102, 255, 0.2)',
       fill: true,
